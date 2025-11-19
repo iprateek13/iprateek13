@@ -1,5 +1,7 @@
-<h1 align="center">👋 Hi there, I'm <strong>Prateek</strong></h1>
-
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width="40" />
+  &nbsp;Hi, I'm Prateek
+</h1>
 
 <!--
 **iprateek13/iprateek13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
