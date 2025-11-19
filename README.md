@@ -88,5 +88,42 @@ MERN Developer | DevOps Engineer
 
 </div>
 
+## 🌐 Connect With Me
+
+<div align="center">
+
+<!-- LinkedIn -->
+<a href="www.linkedin.com/in/prateek-gupta-5bab93276" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-00A8FF?style=for-the-badge&logo=linkedin&logoColor=white" height="40"/>
+</a>
+
+<!-- Instagram -->
+<a href="https://www.instagram.com/techbit.ez/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-FF007F?style=for-the-badge&logo=instagram&logoColor=white" height="40"/>
+</a>
+
+<!-- GitHub -->
+<a href="https://github.com/iprateek13" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-0A0A0A?style=for-the-badge&logo=github&logoColor=white" height="40"/>
+</a>
+
+<!-- Twitter / X -->
+<a href="https://twitter.com/i_prateek13" target="_blank">
+  <img src="https://img.shields.io/badge/Twitter-00C8FF?style=for-the-badge&logo=x&logoColor=white" height="40"/>
+</a>
+
+<!-- Portfolio -->
+<a href="" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-00E7FF?style=for-the-badge&logo=vercel&logoColor=black" height="40"/>
+</a>
+
+<!-- Gmail -->
+<a href="mailto:Ezprateek13@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Email-0078FF?style=for-the-badge&logo=gmail&logoColor=white" height="40"/>
+</a>
+
+</div>
+
+
 
 
