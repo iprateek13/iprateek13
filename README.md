@@ -1,4 +1,5 @@
-## Hi there 👋
+<h1 align="center">👋 Hi there, I'm <strong>Prateek</strong></h1>
+
 
 <!--
 **iprateek13/iprateek13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -121,6 +122,22 @@ MERN Developer | DevOps Engineer
 <a href="mailto:Ezprateek13@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Email-0078FF?style=for-the-badge&logo=gmail&logoColor=white" height="40"/>
 </a>
+
+</div>
+
+<br/>
+<br/>
+
+<div align="center">
+
+---
+
+### 🌌 Thanks for visiting my profile!
+
+<p style="color:#8ecaff;">
+Made with ❤️ by Prateek • MERN Web Developer 
+</p>
+---
 
 </div>
 
