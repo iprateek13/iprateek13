@@ -53,3 +53,40 @@ MERN Developer | DevOps Engineer
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" />
 
 </p>
+
+## 🔥 GitHub Activity & Stats
+
+<div align="center">
+
+<!-- Neon Header Line -->
+<img src="https://github.com/iprateek13/iprateek13/assets/00000000/neon-divider.gif" width="100%" />
+
+<!-- Streaks -->
+<img 
+  src="https://streak-stats.demolab.com?user=iprateek13&theme=radical&hide_border=true&ring=DD2727&fire=DD2727&currStreakNum=FFFFFF&sideLabels=FFFFFF" 
+  height="200" 
+  alt="streak"
+/>
+
+<!-- Stats Card -->
+<br/>
+<img 
+  src="https://github-readme-stats.vercel.app/api?username=iprateek13&show_icons=true&theme=radical&hide_border=true&rank_icon=github" 
+  height="200" 
+  alt="stats"
+/>
+
+<!-- Activity Graph -->
+<br/>
+<img 
+  src="https://github-readme-activity-graph.vercel.app/graph?username=iprateek13&theme=react-dark&hide_border=true&color=FF2D75&line=FF2D75&point=FFFFFF" 
+  alt="activity-graph"
+/>
+
+<!-- Neon Footer Line -->
+<img src="https://github.com/iprateek13/iprateek13/assets/00000000/neon-divider.gif" width="100%" />
+
+</div>
+
+
+
