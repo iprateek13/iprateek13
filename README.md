@@ -21,7 +21,7 @@ MERN Developer | DevOps Engineer
 
 🔭 Currently working on: Full-stack MERN projects
 
-🚀 Goal: Become a DevOps Engineer with strong MERN development skills
+🚀 Goal: Transitioning to DevOps Engineering while leveraging full-stack development expertise
 
 ⚙️ Tech I use: ReactJs, Node.js, Express, MongoDB
 
@@ -63,12 +63,39 @@ MERN Developer | DevOps Engineer
 <img src="https://github.com/iprateek13/iprateek13/assets/00000000/neon-divider.gif" width="100%" />
 
 <!-- Streaks -->
+
+
+
+
+
+<!-- GitHub Stats Card -->
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=iprateek13&theme=tokyonight&hide_border=true" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=iprateek13&show_icons=true&theme=radical&hide_border=true&rank_icon=github&bg_color=0D1117&title_color=FF2D75&icon_color=FF2D75&text_color=FFFFFF" 
+    height="200" 
+    alt="GitHub Stats"
+  />
 </p>
-
-
-
+<!-- Top Languages -->
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=iprateek13&theme=radical&hide_border=true&layout=compact&bg_color=0D1117&title_color=FF2D75&text_color=FFFFFF" 
+    height="200"
+    alt="Top Languages"
+  />
+</p>
+<!-- Activity Graph -->
+<p align="center">
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=iprateek13&theme=react-dark&hide_border=true&bg_color=0D1117&color=FFFFFF&line=FF2D75&point=FFFFFF&area=true&area_color=FF2D75" 
+    alt="Contribution Graph"
+  />
+</p>
+<!-- Profile Views Counter -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=iprateek13&color=FF2D75&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+</p>
+</div>
 
 
 <!-- Stats Card -->
