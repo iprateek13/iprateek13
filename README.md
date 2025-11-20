@@ -100,11 +100,13 @@ MERN Developer | DevOps Engineer
 
 <!-- Stats Card -->
 <br/>
+<div align="center">
 <img 
   src="https://github-readme-stats.vercel.app/api?username=iprateek13&show_icons=true&theme=radical&hide_border=true&rank_icon=github" 
   height="200" 
   alt="stats"
 />
+</div>
 
 <!-- Activity Graph -->
 <br/>
