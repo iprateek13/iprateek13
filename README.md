@@ -63,12 +63,10 @@ MERN Developer | DevOps Engineer
 <img src="https://github.com/iprateek13/iprateek13/assets/00000000/neon-divider.gif" width="100%" />
 
 <!-- Streaks -->
-<div align="center">
-  <img 
-    src="https://streak-stats.demolab.com?user=iprateek13&theme=algolia&hide_border=false&border_radius=10&v=3"
-    height="220"
-  />
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=iprateek13&theme=tokyonight&hide_border=true" />
+</p>
+
 
 
 
