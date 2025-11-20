@@ -53,8 +53,6 @@ MERN Developer | DevOps Engineer
 
 <!-- Tools -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" />
-
 </p>
 
 ## 🔥 GitHub Activity & Stats
@@ -137,7 +135,7 @@ MERN Developer | DevOps Engineer
 ### 🌌 Thanks for visiting my profile!
 
 <p style="color:#8ecaff;">
-Made with ❤️ by Prateek • MERN Web Developer 
+Made with ❤️ by Prateek • MERN Web Developer.
 </p>
 ---
 
