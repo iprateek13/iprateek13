@@ -53,39 +53,16 @@
 
 ---
 
-## 🔥 GitHub Activity & Stats
-
-<!-- GitHub Streaks Card -->
-
-
-
 <div align="center">
 
 <img src="https://github.com/iprateek13/iprateek13/assets/00000000/neon-divider.gif" width="100%" />
 
 <!-- Contribution Graph -->
 
-<h2 align="center">🔥 Contribution Graph</h2>
-
-<p align="center">
-  <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=iprateek13&theme=github-dark&hide_border=true&area=true&height=250"
-    width="90%"
-  />
-</p>
 
 
-<!-- Top Languages -->
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iprateek13&theme=radical&hide_border=true&layout=compact&bg_color=0D1117&title_color=FF2D75&text_color=FFFFFF" height="200" alt="Top Languages" /> </p>
 
-<!-- Profile Views -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=iprateek13&color=FF2D75&style=for-the-badge&label=PROFILE+VIEWS" />
-</p>
 
-</div>
-
----
 
 ## 🐍 Contribution Snake
 
@@ -94,6 +71,19 @@
 </p>
 
 ---
+<!-- Top Languages -->
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iprateek13&theme=radical&hide_border=true&layout=compact&bg_color=0D1117&title_color=FF2D75&text_color=FFFFFF" height="200" alt="Top Languages" /> </p>
+
+
+---
+<h2 align="center">🔥 Contribution Graph</h2>
+
+<p align="center">
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=iprateek13&theme=github-dark&hide_border=true&area=true&height=250"
+    width="90%"
+  />
+</p>
 
 ## 🌐 Connect With Me
 
