@@ -53,10 +53,6 @@
 
 ---
 
-<div align="center">
-
-<img src="https://github.com/iprateek13/iprateek13/assets/00000000/neon-divider.gif" width="100%" />
-
 <!-- Contribution Graph -->
 
 
