@@ -116,6 +116,7 @@
 ### 🌌 Thanks for visiting my profile!
 
 <p style="color:#8ecaff;">
-Made with ❤️ by Prateek • MERN Developer & DevOps Learner
+Made with ❤️ by Prateek • 
+Web Developer & DevOps Learner
 </p>
 
