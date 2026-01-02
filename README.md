@@ -51,11 +51,6 @@
 
 </p>
 
----
-
-<!-- Contribution Graph -->
-
-
 
 
 
@@ -66,14 +61,7 @@
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
----
-<!-- Top Languages -->
 
-
-
-
-
----
 <h2 align="center">🔥 Contribution Graph</h2>
 
 <p align="center">
