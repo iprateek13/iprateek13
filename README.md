@@ -45,7 +45,17 @@ My interests include **Cloud Architecture, Infrastructure as Code, CI/CD Automat
 🔹 Optimizing cloud infrastructure cost  
 
 ---
+<h2 align="center">🐍 Contribution Snake</h2>
 
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/iprateek13/iprateek13/output/github-contribution-grid-snake.svg"
+    alt="GitHub Contribution Snake"
+    width="100%"
+  />
+</p>
+
+---
 # 🛠️ Skills & Technologies
 
 ## ☁️ Cloud Platforms
@@ -480,15 +490,7 @@ Monitoring & Cost Optimization
 
 ---
 
-# 🐍 Contribution Snake
 
-<p align="center">
-  <img
-    src="https://raw.githubusercontent.com/iprateek13/iprateek13/output/github-contribution-grid-snake.svg"
-    alt="GitHub Contribution Snake"
-    width="100%"
-  />
-</p>
 
 ---
 
