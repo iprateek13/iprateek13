@@ -1,70 +1,566 @@
-<h1 align="center">
-  👋 Hi, I'm Prateek Gupta
-</h1>
+<!-- ========================================================= -->
+<!--                    PROFILE HEADER                         -->
+<!-- ========================================================= -->
+
+<h1 align="center">👋 Hi, I'm Prateek Gupta</h1>
+
+<h3 align="center">
+☁️ Cloud | DevOps | DevSecOps Engineer
+</h3>
 
 <p align="center">
-  <strong>Cloud & DevOps Engineer | Azure | AWS | Terraform | Docker | Kubernetes</strong>
+  Azure • AWS • GCP • Terraform • Kubernetes • CI/CD • Cloud Security
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+  <a href="https://git.io/typing-svg">
+    <img
+      src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=0078D4&center=true&vCenter=true&width=800&lines=Building+Secure+and+Scalable+Cloud+Infrastructure;Automating+Infrastructure+with+Terraform;Designing+Production-Ready+DevOps+Pipelines;Exploring+Cloud%2C+DevOps+and+DevSecOps"
+    />
+  </a>
+</p>
+
+<p align="center">
+  <img
+    src="https://komarev.com/ghpvc/?username=iprateek13&label=Profile%20Views&color=0078D4&style=for-the-badge"
+    alt="Profile Views"
+  />
 </p>
 
 ---
 
-## ☁️ About Me
+# 👨‍💻 About Me
 
-Cloud & DevOps Engineer focused on building **secure, scalable and automated cloud infrastructure**.
+I am a passionate **Cloud, DevOps & DevSecOps Engineer** focused on designing and automating secure, scalable, and production-ready cloud infrastructure.
 
-* ☁️ Azure & AWS
-* 🏗️ Terraform / Infrastructure as Code
-* 🐳 Docker & Kubernetes
-* ⚙️ CI/CD & Azure DevOps
-* 🌐 Cloud Networking & Security
-* 🐧 Linux & Bash
-* 🔄 Infrastructure Automation
+My interests include **Cloud Architecture, Infrastructure as Code, CI/CD Automation, DevSecOps, Cloud Security, Networking, Monitoring, and Cost Optimization**.
 
----
-
-## 🛠️ Tech Stack
-
-**Cloud:** Azure, AWS
-**IaC:** Terraform
-**Containers:** Docker, Kubernetes
-**CI/CD:** Azure DevOps, GitHub
-**Networking:** VNet, Subnets, NSG, Load Balancer, Application Gateway, Firewall, VPN
-**Security:** Entra ID, RBAC, Azure Policy, Key Vault
-**OS & Scripting:** Linux, Bash
-**Version Control:** Git, GitHub
-**Programming:** Java
+🔹 Designing scalable cloud architectures  
+🔹 Automating infrastructure using Infrastructure as Code  
+🔹 Building CI/CD and DevSecOps pipelines  
+🔹 Implementing cloud security and governance  
+🔹 Working with containers and Kubernetes  
+🔹 Designing High-Level and Low-Level Architecture  
+🔹 Monitoring infrastructure and applications  
+🔹 Optimizing cloud infrastructure cost  
 
 ---
 
-## 🚀 Featured Projects
+# 🛠️ Skills & Technologies
 
-* ☁️ Azure Landing Zone
-* 🏗️ Terraform Infrastructure Modules
-* 🌐 Azure Networking & Security
-* 🐳 Dockerized Applications
-* ☸️ Kubernetes Deployments
-* ⚙️ CI/CD Pipelines
+## ☁️ Cloud Platforms
 
----
+<p>
 
-## 📈 Currently Learning
+<img src="https://skillicons.dev/icons?i=azure,aws,gcp"/>
 
-**Azure → AWS → Terraform → Networking → Security → Docker → Kubernetes → CI/CD**
+</p>
+
+Azure • AWS • Google Cloud Platform
 
 ---
 
-## 🌐 Connect With Me
+## ⚙️ DevOps
 
-<p align="center">   <a href="https://www.linkedin.com/in/iprateekgupta13">     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>   </a>   <a href="https://github.com/iprateek13">     <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/>   </a> </p>
+<p>
+
+<img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,kubernetes,terraform"/>
+
+</p>
+
+### DevOps Technologies
+
+- CI/CD Pipelines
+- Infrastructure as Code
+- Infrastructure Automation
+- Containerization
+- Container Orchestration
+- GitOps
+- Configuration Management
+- Release Automation
+
+---
+
+# 🛡️ DevSecOps
+
+Security integrated throughout the Software Development Lifecycle.
+
+### Security Areas
+
+- Infrastructure Security
+- Cloud Security
+- Secrets Management
+- Identity & Access Management
+- Security Scanning
+- Compliance
+- Policy as Code
+- Vulnerability Management
+
+### DevSecOps Tools
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=githubactions"/>
+
+</p>
+
+`Checkov` • `tfsec` • `Trivy` • `Gitleaks` • `TruffleHog`
+
+---
+
+# 🏗️ Infrastructure as Code
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=terraform"/>
+
+</p>
+
+### Terraform
+
+- Terraform Modules
+- Remote State
+- State Management
+- Workspaces
+- Variables
+- Outputs
+- Providers
+- Resource Dependencies
+- Infrastructure Automation
+
+---
+
+# 🐳 Containers & Kubernetes
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=docker,kubernetes"/>
+
+</p>
+
+### Docker
+
+- Images
+- Containers
+- Dockerfile
+- Docker Compose
+- Container Networking
+- Container Security
+
+### Kubernetes
+
+- Pods
+- Deployments
+- Services
+- ConfigMaps
+- Secrets
+- Ingress
+- Scaling
+- Networking
+
+---
+
+# 🌐 Cloud Networking
+
+### Networking Skills
+
+- Virtual Networks
+- Subnets
+- Network Security Groups
+- Route Tables
+- Load Balancers
+- Application Gateways
+- Firewalls
+- VPN
+- VNet Peering
+- Private Endpoints
+- DNS
+- NAT
+
+---
+
+# 🔐 Cloud Security & Governance
+
+### Identity & Access Management
+
+- Microsoft Entra ID
+- RBAC
+- Managed Identities
+- Least Privilege Access
+
+### Security
+
+- Key Vault
+- Secrets Management
+- Network Security
+- Zero Trust
+- Azure Policy
+- Security Center
+
+### Governance
+
+- Management Groups
+- Subscriptions
+- Resource Groups
+- Resource Locks
+- Tagging Strategy
+- Policy Enforcement
+
+---
+
+# 🏢 Cloud Landing Zone
+
+Designing enterprise-ready cloud environments.
+
+### Landing Zone Components
+
+```text
+Enterprise Cloud Environment
+        │
+        ▼
+Management Groups
+        │
+        ▼
+Subscriptions
+        │
+        ▼
+Identity & Access Management
+        │
+        ▼
+Networking
+        │
+        ▼
+Security
+        │
+        ▼
+Governance
+        │
+        ▼
+Monitoring
+        │
+        ▼
+Workloads
+```
+
+### Focus Areas
+
+- Enterprise Scale Architecture
+- Governance
+- Security
+- Networking
+- Identity
+- Monitoring
+- Cost Management
+- Automation
+
+---
+
+# 📐 Cloud Architecture & System Design
+
+## High-Level Design (HLD)
+
+Focus on designing the overall architecture.
+
+### Includes
+
+- System Architecture
+- Cloud Architecture
+- Component Design
+- Network Architecture
+- Security Architecture
+- Data Flow
+- Scalability
+- High Availability
+- Disaster Recovery
+
+---
+
+## Low-Level Design (LLD)
+
+Focus on implementation-level architecture.
+
+### Includes
+
+- Resource Configuration
+- Network Configuration
+- Security Rules
+- Terraform Modules
+- CI/CD Pipelines
+- Deployment Strategy
+- Naming Conventions
+- Tagging Strategy
+
+---
+
+# 📊 Monitoring & Observability
+
+Monitoring infrastructure, applications, and cloud resources.
+
+### Monitoring Areas
+
+- Infrastructure Monitoring
+- Application Monitoring
+- Log Management
+- Metrics
+- Alerts
+- Dashboards
+- Performance Monitoring
+
+### Technologies
+
+`Azure Monitor` • `Log Analytics` • `Prometheus` • `Grafana`
+
+---
+
+# 💰 Cloud Cost Management & Optimization
+
+Optimizing cloud infrastructure for performance and cost efficiency.
+
+### Cost Optimization Areas
+
+- Resource Right-Sizing
+- Autoscaling
+- Reserved Instances
+- Cost Analysis
+- Budget Alerts
+- Resource Tagging
+- Idle Resource Detection
+- Storage Optimization
+
+---
+
+# 💻 Scripting & Programming
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=python,bash,powershell,java"/>
+
+</p>
+
+### Languages
+
+- Python
+- Bash
+- PowerShell
+- Java
+
+### Usage
+
+- Infrastructure Automation
+- Cloud Automation
+- Deployment Scripts
+- Monitoring Scripts
+- Operational Automation
+
+---
+
+# 🚀 Featured Projects
+
+## ☁️ Azure Enterprise Landing Zone
+
+Enterprise cloud architecture focused on building secure, governed, and scalable Azure environments.
+
+### Areas
+
+- Management Groups
+- Subscriptions
+- Identity & Access Management
+- Networking
+- Security
+- Governance
+- Monitoring
+- Cost Management
+
+**Tech Stack**
+
+`Azure` • `Terraform` • `Networking` • `Security`
+
+---
+
+## 🏗️ Terraform Infrastructure Modules
+
+Reusable Terraform modules for provisioning Azure infrastructure.
+
+### Infrastructure
+
+- Resource Groups
+- Virtual Networks
+- Subnets
+- Network Security Groups
+- Network Interfaces
+- Virtual Machines
+
+**Tech Stack**
+
+`Terraform` • `Azure` • `Infrastructure as Code`
+
+---
+
+## 🔐 Secure File Sharing System
+
+Secure cloud file-sharing architecture using Azure services.
+
+### Features
+
+- Azure Blob Storage
+- Private Containers
+- SAS Tokens
+- Controlled Access
+- Secure File Sharing
+
+**Tech Stack**
+
+`Azure` • `Terraform` • `Cloud Security`
+
+---
+
+## ⚙️ Terraform DevSecOps Pipeline
+
+Automated Infrastructure as Code pipeline.
+
+### Pipeline Architecture
+
+```text
+Developer
+    │
+    ▼
+Feature Branch
+    │
+    ▼
+Pull Request
+    │
+    ▼
+Terraform Validation
+    │
+    ▼
+Security Scanning
+    │
+    ▼
+Terraform Plan
+    │
+    ▼
+Code Review
+    │
+    ▼
+Merge to Main
+    │
+    ▼
+Approval
+    │
+    ▼
+Terraform Apply
+    │
+    ▼
+Azure Infrastructure
+```
+
+### Tools
+
+`Terraform` • `GitHub Actions` • `Azure DevOps`
+
+### Security
+
+`Checkov` • `tfsec` • `Trivy` • `Gitleaks` • `TruffleHog`
+
+---
+
+# 🎯 Current Focus
+
+```text
+Cloud Architecture
+       │
+       ▼
+Cloud Landing Zones
+       │
+       ▼
+Infrastructure as Code
+       │
+       ▼
+Networking & Security
+       │
+       ▼
+DevOps & CI/CD
+       │
+       ▼
+Containers
+       │
+       ▼
+Kubernetes
+       │
+       ▼
+DevSecOps
+       │
+       ▼
+Monitoring & Cost Optimization
+```
+
+---
+
+# 📊 GitHub Statistics
 
 <p align="center">
-  ⭐ Thanks for visiting my profile!
+
+<img
+height="170"
+src="https://github-readme-stats.vercel.app/api?username=iprateek13&show_icons=true&theme=tokyonight&hide_border=true"
+/>
+
+<img
+height="170"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=iprateek13&layout=compact&theme=tokyonight&hide_border=true"
+/>
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/iprateek13/iprateek13/output/github-contribution-grid-snake-dark.svg"
+    alt="GitHub Contribution Snake"
+  />
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/iprateekgupta13">
+
+<img
+src="https://img.shields.io/badge/LinkedIn-Prateek%20Gupta-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+/>
+
+</a>
+
+<a href="https://github.com/iprateek13">
+
+<img
+src="https://img.shields.io/badge/GitHub-iprateek13-171515?style=for-the-badge&logo=github&logoColor=white"
+/>
+
+</a>
+
+</p>
+
+---
+
+<h3 align="center">
+
+⭐ Thanks for visiting my profile!
+
+</h3>
+
+<p align="center">
+
+<b>
+
+Automate Infrastructure • Secure Everything • Monitor Continuously • Optimize Costs 🚀
+
+</b>
+
 </p>
