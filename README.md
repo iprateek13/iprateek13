@@ -484,8 +484,8 @@ Monitoring & Cost Optimization
 
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"
-    alt="Contribution Snake"
+    src="https://raw.githubusercontent.com/iprateek13/iprateek13/output/github-contribution-grid-snake-dark.svg"
+    alt="GitHub Contribution Snake"
   />
 </p>
 
