@@ -486,6 +486,7 @@ Monitoring & Cost Optimization
   <img
     src="https://raw.githubusercontent.com/iprateek13/iprateek13/output/github-contribution-grid-snake.svg"
     alt="GitHub Contribution Snake"
+    width="100%"
   />
 </p>
 
@@ -512,11 +513,6 @@ Monitoring & Cost Optimization
 ---
 
 <h3 align="center">
-⭐ Thanks for visiting my profile!
+ Thanks for visiting my profile!
 </h3>
 
-<p align="center">
-  <b>
-    Automate Infrastructure • Secure Everything • Monitor Continuously • Optimize Costs 🚀
-  </b>
-</p>
