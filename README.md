@@ -51,9 +51,7 @@ My interests include **Cloud Architecture, Infrastructure as Code, CI/CD Automat
 ## ☁️ Cloud Platforms
 
 <p>
-
-<img src="https://skillicons.dev/icons?i=azure,aws,gcp"/>
-
+  <img src="https://skillicons.dev/icons?i=azure,aws,gcp"/>
 </p>
 
 Azure • AWS • Google Cloud Platform
@@ -63,9 +61,7 @@ Azure • AWS • Google Cloud Platform
 ## ⚙️ DevOps
 
 <p>
-
-<img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,kubernetes,terraform"/>
-
+  <img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,kubernetes,terraform"/>
 </p>
 
 ### DevOps Technologies
@@ -81,7 +77,7 @@ Azure • AWS • Google Cloud Platform
 
 ---
 
-# 🛡️ DevSecOps
+## 🛡️ DevSecOps
 
 Security integrated throughout the Software Development Lifecycle.
 
@@ -98,22 +94,14 @@ Security integrated throughout the Software Development Lifecycle.
 
 ### DevSecOps Tools
 
-<p>
-
-<img src="https://skillicons.dev/icons?i=githubactions"/>
-
-</p>
-
 `Checkov` • `tfsec` • `Trivy` • `Gitleaks` • `TruffleHog`
 
 ---
 
-# 🏗️ Infrastructure as Code
+## 🏗️ Infrastructure as Code
 
 <p>
-
-<img src="https://skillicons.dev/icons?i=terraform"/>
-
+  <img src="https://skillicons.dev/icons?i=terraform"/>
 </p>
 
 ### Terraform
@@ -130,12 +118,10 @@ Security integrated throughout the Software Development Lifecycle.
 
 ---
 
-# 🐳 Containers & Kubernetes
+## 🐳 Containers & Kubernetes
 
 <p>
-
-<img src="https://skillicons.dev/icons?i=docker,kubernetes"/>
-
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes"/>
 </p>
 
 ### Docker
@@ -160,9 +146,7 @@ Security integrated throughout the Software Development Lifecycle.
 
 ---
 
-# 🌐 Cloud Networking
-
-### Networking Skills
+## 🌐 Cloud Networking
 
 - Virtual Networks
 - Subnets
@@ -179,7 +163,7 @@ Security integrated throughout the Software Development Lifecycle.
 
 ---
 
-# 🔐 Cloud Security & Governance
+## 🔐 Cloud Security & Governance
 
 ### Identity & Access Management
 
@@ -208,13 +192,38 @@ Security integrated throughout the Software Development Lifecycle.
 
 ---
 
-# 🏢 Cloud Landing Zone
+## 💻 Scripting & Programming
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,bash,powershell,java"/>
+</p>
+
+### Languages
+
+- Python
+- Bash
+- PowerShell
+- Java
+
+### Usage
+
+- Infrastructure Automation
+- Cloud Automation
+- Deployment Scripts
+- Monitoring Scripts
+- Operational Automation
+
+---
+
+# 🏢 Cloud Architecture & Enterprise Design
+
+## ☁️ Cloud Landing Zone
 
 Designing enterprise-ready cloud environments.
 
 ### Landing Zone Components
 
-```text
+```text id="h4jnq7"
 Enterprise Cloud Environment
         │
         ▼
@@ -255,7 +264,7 @@ Workloads
 
 ---
 
-# 📐 Cloud Architecture & System Design
+# 📐 HLD & LLD Architecture Design
 
 ## High-Level Design (HLD)
 
@@ -329,31 +338,6 @@ Optimizing cloud infrastructure for performance and cost efficiency.
 
 ---
 
-# 💻 Scripting & Programming
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=python,bash,powershell,java"/>
-
-</p>
-
-### Languages
-
-- Python
-- Bash
-- PowerShell
-- Java
-
-### Usage
-
-- Infrastructure Automation
-- Cloud Automation
-- Deployment Scripts
-- Monitoring Scripts
-- Operational Automation
-
----
-
 # 🚀 Featured Projects
 
 ## ☁️ Azure Enterprise Landing Zone
@@ -420,7 +404,7 @@ Automated Infrastructure as Code pipeline.
 
 ### Pipeline Architecture
 
-```text
+```text id="db74oz"
 Developer
     │
     ▼
@@ -466,7 +450,7 @@ Azure Infrastructure
 
 # 🎯 Current Focus
 
-```text
+```text id="ghk20j"
 Cloud Architecture
        │
        ▼
@@ -496,10 +480,13 @@ Monitoring & Cost Optimization
 
 ---
 
-
 # 🐍 Contribution Snake
+
 <p align="center">
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+  <img
+    src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"
+    alt="Contribution Snake"
+  />
 </p>
 
 ---
@@ -508,38 +495,28 @@ Monitoring & Cost Optimization
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/iprateekgupta13">
+  <a href="https://www.linkedin.com/in/iprateekgupta13">
+    <img src="https://img.shields.io/badge/LinkedIn-Prateek%20Gupta-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 
-<img
-src="https://img.shields.io/badge/LinkedIn-Prateek%20Gupta-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-/>
+  <a href="https://github.com/iprateek13">
+    <img src="https://img.shields.io/badge/GitHub-iprateek13-171515?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 
-</a>
-
-<a href="https://github.com/iprateek13">
-
-<img
-src="https://img.shields.io/badge/GitHub-iprateek13-171515?style=for-the-badge&logo=github&logoColor=white"
-/>
-
-</a>
+  <a href="mailto:sre.prateek@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D44638?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 
 </p>
 
 ---
 
 <h3 align="center">
-
 ⭐ Thanks for visiting my profile!
-
 </h3>
 
 <p align="center">
-
-<b>
-
-Automate Infrastructure • Secure Everything • Monitor Continuously • Optimize Costs 🚀
-
-</b>
-
+  <b>
+    Automate Infrastructure • Secure Everything • Monitor Continuously • Optimize Costs 🚀
+  </b>
 </p>
