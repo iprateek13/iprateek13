@@ -484,7 +484,7 @@ Monitoring & Cost Optimization
 
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/iprateek13/iprateek13/output/github-contribution-grid-snake-dark.svg"
+    src="https://raw.githubusercontent.com/iprateek13/iprateek13/output/github-contribution-grid-snake.svg"
     alt="GitHub Contribution Snake"
   />
 </p>
