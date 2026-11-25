@@ -1,0 +1,169 @@
+
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="1000"
+     height="440"
+     viewBox="0 0 1000 440">
+
+  <defs>
+    <marker id="arrow"
+            markerWidth="8"
+            markerHeight="8"
+            refX="7"
+            refY="4"
+            orient="auto">
+      <path d="M0 0 L7 4 L0 8 Z" fill="#8491a3"/>
+    </marker>
+  </defs>
+
+  <!-- Background -->
+
+  <rect x="1" y="1"
+        width="998" height="438"
+        rx="16"
+        fill="#181818"
+        stroke="#303030"/>
+
+  <!-- Title -->
+
+  <text x="500" y="44"
+        text-anchor="middle"
+        font-family="Arial, sans-serif"
+        font-size="30"
+        font-weight="700"
+        fill="#f5f5f5">
+    Infrastructure Delivery Workflow
+  </text>
+
+  <!-- CI Section -->
+
+  <rect x="30" y="75"
+        width="940" height="145"
+        rx="12"
+        fill="#161e25"
+        stroke="#075985"/>
+
+  <text x="55" y="104"
+        font-family="Arial, sans-serif"
+        font-size="15"
+        font-weight="700"
+        fill="#0095ed">
+    CONTINUOUS INTEGRATION
+  </text>
+
+  <!-- CI Nodes -->
+
+  <g fill="#142b3b"
+     stroke="#0078D4"
+     stroke-width="1.2">
+
+    <rect x="50" y="130" width="200" height="60" rx="7"/>
+    <rect x="283" y="130" width="200" height="60" rx="7"/>
+    <rect x="516" y="130" width="200" height="60" rx="7"/>
+    <rect x="749" y="130" width="200" height="60" rx="7"/>
+
+  </g>
+
+  <!-- CI Labels -->
+
+  <g font-family="Arial, sans-serif"
+     font-size="16"
+     font-weight="600"
+     fill="#f0f6fc"
+     text-anchor="middle">
+
+    <text x="150" y="165">Feature Branch</text>
+    <text x="383" y="165">Pull Request</text>
+    <text x="616" y="165">Security Scan</text>
+    <text x="849" y="165">Terraform Plan</text>
+
+  </g>
+
+  <!-- CI Arrows -->
+
+  <g fill="none"
+     stroke="#8491a3"
+     stroke-width="1.5"
+     marker-end="url(#arrow)">
+
+    <path d="M250 160 H280"/>
+    <path d="M483 160 H513"/>
+    <path d="M716 160 H746"/>
+
+  </g>
+
+  <!-- CD Section -->
+
+  <rect x="30" y="255"
+        width="940" height="155"
+        rx="12"
+        fill="#171f1a"
+        stroke="#166534"/>
+
+  <text x="55" y="284"
+        font-family="Arial, sans-serif"
+        font-size="15"
+        font-weight="700"
+        fill="#16a34a">
+    CONTINUOUS DELIVERY
+  </text>
+
+  <!-- CI to CD Connection -->
+
+  <path d="M849 190 V238 H150 V303"
+        fill="none"
+        stroke="#8491a3"
+        stroke-width="1.5"
+        marker-end="url(#arrow)"/>
+
+  <!-- CD Nodes -->
+
+  <g fill="#183324"
+     stroke="#15803d"
+     stroke-width="1.2">
+
+    <rect x="50" y="305" width="200" height="60" rx="7"/>
+    <rect x="283" y="305" width="200" height="60" rx="7"/>
+    <rect x="516" y="305" width="200" height="60" rx="7"/>
+    <rect x="749" y="305" width="200" height="60" rx="7"/>
+
+  </g>
+
+  <!-- CD Labels -->
+
+  <g font-family="Arial, sans-serif"
+     font-size="16"
+     font-weight="600"
+     fill="#f0f6fc"
+     text-anchor="middle">
+
+    <text x="150" y="340">Review &amp; Merge</text>
+    <text x="383" y="340">Plan &amp; Approval</text>
+    <text x="616" y="340">Terraform Apply</text>
+    <text x="849" y="340">Azure Resources</text>
+
+  </g>
+
+  <!-- CD Arrows -->
+
+  <g fill="none"
+     stroke="#8491a3"
+     stroke-width="1.5"
+     marker-end="url(#arrow)">
+
+    <path d="M250 335 H280"/>
+    <path d="M483 335 H513"/>
+    <path d="M716 335 H746"/>
+
+  </g>
+
+  <!-- Technology Stack -->
+
+  <text x="500" y="392"
+        text-anchor="middle"
+        font-family="Arial, sans-serif"
+        font-size="14"
+        fill="#94a3b8">
+    Terraform · Azure DevOps · GitHub Actions · DevSecOps
+  </text>
+
+</svg>
